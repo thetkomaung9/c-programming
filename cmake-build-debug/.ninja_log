@@ -1,0 +1,21 @@
+# ninja log v5
+0	45	1699679974995750721	build.ninja	5090f01ae2b822ac
+0	27	1699675154165447197	CMakeFiles/untitled.dir/looping/perimeterofrectangle.c.o	ad944eb6d521b0a6
+0	26	1699073641950954772	CMakeFiles/untitled.dir/controlstructure/positiveandnegative.c.o	9503fee314e8efc6
+1	33	1698465650764358495	CMakeFiles/untitled.dir/controlstructure/program.c.o	1cd639fe6c69e306
+0	32	1699675854426821955	CMakeFiles/untitled.dir/looping/kilometertomile.c.o	67abbeac0cca330c
+0	27	1699678035630295164	CMakeFiles/untitled.dir/Conditional_Statement/positiveornegative.c.o	c6d903b2f867e0a0
+0	32	1699072519787641515	CMakeFiles/untitled.dir/controlstructure/calculator.c.o	e89463737d001b1c
+1	48	1699674364075820326	CMakeFiles/untitled.dir/volumetosphere.c.o	cbfd3e0daf29d9d0
+0	192	1699072315327448096	CMakeFiles/untitled.dir/controlstructure/program2.c.o	7d21ea10451d3863
+0	43	1699591308204410369	CMakeFiles/untitled.dir/looping/clooping.c.o	9ae0d308eddffd3d
+0	29	1699593472664691732	CMakeFiles/untitled.dir/looping/basicinputoutput.c.o	3ed10f26052524aa
+0	30	1699073360089346587	CMakeFiles/untitled.dir/controlstructure/oddandeven.c.o	bec22ee79e0b77d1
+0	145	1698466557568171838	CMakeFiles/untitled.dir/controlstructure/program1.c.o	789e6e5157e4c7b8
+0	56	1699676940553782974	CMakeFiles/untitled.dir/looping/thirdangleoftriangle.c.o	1e4b302dddefef88
+27	60	1699678035664106788	untitled	bf3792333e9d0b6d
+1	32	1699677556551437468	CMakeFiles/untitled.dir/Conditional_Statement/equalornot.c.o	31946155c06bbd46
+0	31	1699676388076130329	CMakeFiles/untitled.dir/looping/totalnumberofminutes.c.o	61505ff7e659c957
+0	35	1699679974995750721	build.ninja	5090f01ae2b822ac
+0	85	1699679975085070805	CMakeFiles/untitled.dir/Conditional_Statement/evenandodd.c.o	fbc688aec8f44b15
+85	152	1699679975152180422	untitled	4592a32862a6bf79
